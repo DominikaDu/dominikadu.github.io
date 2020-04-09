@@ -1,18 +1,16 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Dominika Ďurovčíková
+description: 'Hello! I am a Master of Physics candidate at the University of Oxford.'
+url: 'http://DominikaDu.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Dominika Ďurovčíková'
+  email: dominika.durovcikova@gmail.com
+  github_username:  DominikaDu
+  linkedin_username:  dominika-durovcikova-385b52134
 
 defaults:
   -
