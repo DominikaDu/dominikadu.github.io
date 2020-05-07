@@ -5,7 +5,7 @@ title: Other projects
 Here are some other projects I've been involved in.
 
 ### Unimak
-<br/>
+
 Unimak is a volunteer group of over 60 Slovak and Czech students from top universities around the world. Our mission is to spread awareness of the possibilities for young Slovaks and Czechs to study at world leading universities. Our activities include advising on issues related to choosing and applying to universities abroad, outreach talks, [videos](https://www.youtube.com/channel/UCSzDttGeQ_Dn4Q1XW6malmw/featured?view_as=subscriber) and [blogs](https://dennikn.sk/autor/oxbridge-admissions/).
 {: style="text-align: justify"}
 
@@ -16,7 +16,7 @@ Check out our website (in Slovak and Czech only) [here](https://unimak.sk/).
 {: style="text-align: justify"}
 
 ### Encouraging Women Across All Borders
-<br/>
+
 In the summer of 2019, I co-founded Encouraging Women Across All Borders (EWAAB) with my good friend Kaitlin Gili. Our vision was to create a platform to:
 - **encourage** undergraduate women to be more confident in their academic abilities as well as other passions,
 - **provide** them with tools to boost their communication and leadership skills,
