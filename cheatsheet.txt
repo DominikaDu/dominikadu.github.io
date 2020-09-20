@@ -1,0 +1,7 @@
+To test website locally:
+
+bundle exec jekyll serve
+
+_config.yml = intro page text configuration
+
+After local changes have been made, need to git push to apply these changes.
