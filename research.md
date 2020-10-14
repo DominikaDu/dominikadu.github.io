@@ -8,7 +8,8 @@ Find out about my past and present research projects below (in preparation).
 
 ### Precision Quantum Metrology
 
-Precision metrology is important in our everyday lives - we need an accurate measure of distance everytime we use the GPS in our phones, or precise force and acceleration sensors everytime we fly in an airplane. Precision quantum metrology is a branch of physics which applies quantum-mechanical principles to improve the precision of all kinds of measurements we make: time, distance, force, or phase to list a few. Even though metrology can seem like an applied science, my excitement for quantum metrology stems from the possibilities it allows to study the most fundamental laws of Nature.
+<!-- Precision metrology is important in our everyday lives - we need an accurate measure of distance everytime we use the GPS in our phones, or precise force and acceleration sensors everytime we fly in an airplane. Precision quantum metrology is a branch of physics which applies quantum-mechanical principles to improve the precision of all kinds of measurements we make: time, distance, force, or phase to list a few. Even though metrology can seem like an applied science, my excitement for quantum metrology stems from the possibilities it allows to study the most fundamental laws of Nature. -->
+Precision quantum metrology is a branch of physics which applies quantum-mechanical principles to improve the precision of all kinds of measurements we make: time, distance, force, or phase to list a few.
 {: style="text-align: justify"}
 
 #### Current research:
