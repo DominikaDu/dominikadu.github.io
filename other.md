@@ -6,10 +6,10 @@ Here are some other projects I've been involved in.
 
 ### MIT Physics Graduate Application Assistance Program
 
-I am proud to bring your attention to the newly established assistance program for the Physics graduate program at MIT, PhysGAAP, which I'm currently involved in kicking off. PhysGAAP is designed to pair prospective graduate school applicants with current graduate students to assist them through the application process, provide insight into graduate school and the MIT Physics Department, provide feedback on their application, and answer any questions they might have.
+I am proud to bring your attention to the newly established assistance program for the Physics graduate program at MIT, PhysGAAP, which I'm currently involved in kicking off as part of the Graduate Admissions Advisory Council at MIT Physics. PhysGAAP is designed to pair prospective graduate school applicants with current graduate students to assist them through the application process, provide insight into graduate school and the MIT Physics Department, provide feedback on their application, and answer any questions they might have.
 {: style="text-align: justify"}
 
-Please check back for links and more information.
+[Here](https://web.mit.edu/physics/prospective/graduate/PhysGAAP_poster.pdf) is our amazing poster and [here](https://web.mit.edu/physics/prospective/graduate/application_guidance.html) is a link to more information on PhysGAAP as well as other student resources we managed to push through.
 {: style="text-align: justify"}
 
 ### Discover Summer Academy
@@ -33,13 +33,13 @@ Check out our website (in Slovak and Czech only) [here](https://unimak.sk/).
 
 ### Encouraging Women Across All Borders
 
-In the summer of 2019, I co-founded Encouraging Women Across All Borders (EWAAB) with my good friend Kaitlin Gili. Our vision was to create a platform to:
-- **encourage** undergraduate women to be more confident in their academic abilities as well as other passions,
-- **provide** them with tools to boost their communication and leadership skills,
+In the summer of 2019, I co-founded Encouraging Women Across All Borders (EWAAB) with my good friend Kaitlin Gili. Our vision was to create a platform to support the confidence of young women. Our strategy became to:
+- **encourage** undergraduate women to go outside of their comfort zone in their academic abilities as well as other passions and explore what's possible,
+- **provide** them with tools to boost their communication and leadership skills to be able to seize opportunities,
 - **connect** them to a global support network of inspirational women, both junior and senior.
 {: style="text-align: justify"}
 
-We managed to kick off the EWAAB mentoring program (later known as Encourage Her) at 8 universities ranging from Canada to Australia in the inaugural year. Since then, EWAAB has expanded into a non-profit organisation. Beyond the mentoring program, we are now also building a separate platform for our network as well as a virtual library of short videos of inspirational speakers talking about the challenges they've faced. 
+We managed to kick off the EWAAB mentoring program (later known as Encourage Her) at 8 universities ranging from Canada to Australia in the inaugural year, together impacting 27 mentees across 6 countries. Since then, EWAAB has expanded into a non-profit organisation. Beyond the second year of the mentoring program, we are now also building a separate software platform for our network as well as a virtual library of short videos of inspirational speakers talking about the challenges they've faced. 
 {: style="text-align: justify"}
 
 In addition, we also operate the [Her Story](https://www.ewaab.org/her-story) blog series. Here are my contributions:
