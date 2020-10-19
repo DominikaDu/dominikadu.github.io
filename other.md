@@ -12,6 +12,24 @@ I am proud to bring your attention to the newly established assistance program f
 [Here](https://web.mit.edu/physics/prospective/graduate/PhysGAAP_poster.pdf) is our amazing poster and [here](https://web.mit.edu/physics/prospective/graduate/application_guidance.html) is a link to more information on PhysGAAP as well as other student resources we managed to push through.
 {: style="text-align: justify"}
 
+### Encouraging Women Across All Borders
+
+In the summer of 2019, I co-founded Encouraging Women Across All Borders (EWAAB) with my good friend Kaitlin Gili. Our vision was to create a platform to support the confidence of young women. Our strategy became to:
+- **encourage** undergraduate women to go outside of their comfort zone in their academic abilities as well as other passions and explore what's possible,
+- **provide** them with tools to boost their communication and leadership skills to be able to seize opportunities,
+- **connect** them to a global support network of inspirational women, both junior and senior.
+{: style="text-align: justify"}
+
+We managed to kick off the EWAAB mentoring program (later known as Encourage Her) at 8 universities ranging from Canada to Australia in the inaugural year, together impacting 27 mentees across 6 countries. Since then, EWAAB has expanded into a non-profit organisation. Beyond the second year of the mentoring program, we are now also building a separate software platform for our network as well as a virtual library of short videos of inspirational speakers talking about the challenges they've faced. 
+{: style="text-align: justify"}
+
+In addition, we also operate the [Her Story](https://www.ewaab.org/her-story) blog series. Here are my contributions:
+- [Research to Reach Out and Reach Out to Research: The Key to Creating Opportunities](https://www.ewaab.org/post/research-to-reach-out-and-reach-out-to-research-the-key-to-creating-opportunities)
+- An Open Letter to the Ambitious Introvert
+
+You can read more up-to-date information about EWAAB [here](https://www.ewaab.org/). We were also featured in the [Scientific American](https://blogs.scientificamerican.com/cross-check/good-news-women-helping-women-in-stem/) and [SME](https://vysokeskoly.sme.sk/c/22328170/cez-trening-sa-prvacky-dopracuju-k-sebavedomiu.html) (the largest Slovak newspaper).
+{: style="text-align: justify"}
+
 ### Discover Summer Academy
 
 In August 2020, I was fortunate to be given the opportunity to teach at the [Discover Summer Academy](https://discover.sk/en/). This is a week-long academic camp for high school students from Slovakia and beyond to learn exciting things beyond the high-school curriculum and participate in numerous workshops.
@@ -29,23 +47,5 @@ I have been involved ever since entering my undergraduate studies in 2016. In 20
 {: style="text-align: justify"}
 
 Check out our website (in Slovak and Czech only) [here](https://unimak.sk/).
-{: style="text-align: justify"}
-
-### Encouraging Women Across All Borders
-
-In the summer of 2019, I co-founded Encouraging Women Across All Borders (EWAAB) with my good friend Kaitlin Gili. Our vision was to create a platform to support the confidence of young women. Our strategy became to:
-- **encourage** undergraduate women to go outside of their comfort zone in their academic abilities as well as other passions and explore what's possible,
-- **provide** them with tools to boost their communication and leadership skills to be able to seize opportunities,
-- **connect** them to a global support network of inspirational women, both junior and senior.
-{: style="text-align: justify"}
-
-We managed to kick off the EWAAB mentoring program (later known as Encourage Her) at 8 universities ranging from Canada to Australia in the inaugural year, together impacting 27 mentees across 6 countries. Since then, EWAAB has expanded into a non-profit organisation. Beyond the second year of the mentoring program, we are now also building a separate software platform for our network as well as a virtual library of short videos of inspirational speakers talking about the challenges they've faced. 
-{: style="text-align: justify"}
-
-In addition, we also operate the [Her Story](https://www.ewaab.org/her-story) blog series. Here are my contributions:
-- [Research to Reach Out and Reach Out to Research: The Key to Creating Opportunities](https://www.ewaab.org/post/research-to-reach-out-and-reach-out-to-research-the-key-to-creating-opportunities)
-- An Open Letter to the Ambitious Introvert
-
-You can read more up-to-date information about EWAAB [here](https://www.ewaab.org/). We were also featured in the [Scientific American](https://blogs.scientificamerican.com/cross-check/good-news-women-helping-women-in-stem/) and [SME](https://vysokeskoly.sme.sk/c/22328170/cez-trening-sa-prvacky-dopracuju-k-sebavedomiu.html) (the largest Slovak newspaper).
 {: style="text-align: justify"}
 
