@@ -46,6 +46,6 @@ In addition, we also operate the [Her Story](https://www.ewaab.org/her-story) bl
 - [Research to Reach Out and Reach Out to Research: The Key to Creating Opportunities](https://www.ewaab.org/post/research-to-reach-out-and-reach-out-to-research-the-key-to-creating-opportunities)
 - An Open Letter to the Ambitious Introvert
 
-You can read more up-to-date information about EWAAB [here](https://www.ewaab.org/).
+You can read more up-to-date information about EWAAB [here](https://www.ewaab.org/). We were also featured in the [Scientific American](https://blogs.scientificamerican.com/cross-check/good-news-women-helping-women-in-stem/) and [SME](https://vysokeskoly.sme.sk/c/22328170/cez-trening-sa-prvacky-dopracuju-k-sebavedomiu.html) (the largest Slovak newspaper).
 {: style="text-align: justify"}
 
