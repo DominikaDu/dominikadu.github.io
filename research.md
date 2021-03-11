@@ -16,7 +16,7 @@ Precision quantum metrology is a branch of physics which applies quantum-mechani
 
 #### Studying Quantum Gravity through Precision Quantum Metrology
 
-As a graduate student at MIT, I've joined Professor Vivishek Sudhir to use precision quantum metrology to study the interface between quantum physics and gravity, one of the biggest remaining puzzles of modern Physics. We are currently designing an experiment to control a single electron in a Penning trap and use precision force measurements to detect its recoil due to the Hawking-Unruh radiation. This is very exciting as the Hawking-Unruh radiation, related to the more popular radiation mechanism by which black holes are thought to "evaporate", hasn't yet been experimentally confirmed.
+As a graduate student at MIT, I've joined the [Quantum and Precision Measurements Group](precision.mit.edu) to use precision quantum metrology to study the interface between quantum physics and gravity, one of the biggest remaining puzzles of modern Physics. We are currently designing an experiment to control a single electron in a Penning trap and use precision force measurements to detect its recoil due to the Hawking-Unruh radiation. This is very exciting as the Hawking-Unruh radiation, related to the more popular radiation mechanism by which black holes are thought to "evaporate", hasn't yet been experimentally confirmed.
 {: style="text-align: justify"}
 
 #### Past projects:
