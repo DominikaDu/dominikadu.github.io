@@ -28,14 +28,12 @@ In summer 2018, I joined Professor Nergis Mavalvala and colleagues at the MIT LI
 
 ### Astrophysics
 
-#### Current research: 
+#### Past projects:
 
 #### Super-Resolution Galaxy Imaging
 
-This is a project I did for my Master's Thesis, and I've continued working on it. We have created a machine-learning model which can turn galaxy images from ground-based telescopes into space-telescope-like quality images. We are currently preparing this work for publication.
+For my Master's thesis, I have created a machine-learning model which can turn galaxy images from ground-based telescopes into space-telescope-like quality images.
 {: style="text-align: justify"}
-
-#### Past projects:
 
 #### Reconstructing Quasar Continua to Study the Epoch of Reionization
 
