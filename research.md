@@ -2,9 +2,11 @@
 title: Research
 ---
 
+I am currently doing my PhD in Physics at the Massachusetts Institute of Technology. I currently spend my days exploring supermassive black holes in the high-redshift Universe.
+
 View my [Google Scholar](https://scholar.google.sk/citations?user=pYkzjmMAAAAJ&hl=en&oi=ao) profile.
 
-Find out about my past and present research projects below (in preparation).
+Find out about my past and present research projects below.
 
 ### Astrophysics
 
@@ -12,7 +14,7 @@ Find out about my past and present research projects below (in preparation).
 
 #### Proximity zones of high-redshift quasars
 
-I am currently working on understanding properties of high-redshift quasar proximity zones and how these are shaped by the history of cosmic reionization. I work with Anna-Christina Eilers and Professor Rob Simcoe at the [Quasar Group](http://www.mit.edu/~eilers/group.html) at MIT.
+I am currently working on understanding properties of high-redshift quasar proximity zones and how these are shaped by the history of cosmic reionization. I work with Professors Anna-Christina Eilers and Rob Simcoe at the [Cosmic Dawn Group](http://www.mit.edu/~eilers/index.html) at MIT.
 
 #### Past projects:
 
@@ -37,7 +39,6 @@ Back in the penultimate year of high school is Slovakia, I got involved with the
 
 ### Precision Quantum Metrology
 
-<!-- Precision metrology is important in our everyday lives - we need an accurate measure of distance everytime we use the GPS in our phones, or precise force and acceleration sensors everytime we fly in an airplane. Precision quantum metrology is a branch of physics which applies quantum-mechanical principles to improve the precision of all kinds of measurements we make: time, distance, force, or phase to list a few. Even though metrology can seem like an applied science, my excitement for quantum metrology stems from the possibilities it allows to study the most fundamental laws of Nature. -->
 Precision quantum metrology is a branch of physics which applies quantum-mechanical principles to improve the precision of all kinds of measurements we make: time, distance, force, or phase to list a few. This not only has many industrial applications, such as for navigation systems, biomedical imaging or computer chip manufacturing, but it also bears a very fundamental relevance - quantum-gravity experiments and dark matter detection are a few such areas where the toolkit of precision metrology has experienced a growing interest recently.
 {: style="text-align: justify"}
 
@@ -45,7 +46,7 @@ Precision quantum metrology is a branch of physics which applies quantum-mechani
 
 #### Studying Quantum Gravity through Precision Quantum Metrology
 
-At the beginning of my graduate studies at MIT, I joined the [Quantum and Precision Measurements Group](precision.mit.edu). Here, I used precision quantum metrology to study the interface between quantum physics and gravity, one of the biggest remaining puzzles of modern Physics.
+I am a past member of the [Quantum and Precision Measurements Group](precision.mit.edu), where I used precision quantum metrology for the development of a novel, state-of-the-art force detector to study the interface between quantum physics and gravity.
 {: style="text-align: justify"}
 
 #### Past projects:
