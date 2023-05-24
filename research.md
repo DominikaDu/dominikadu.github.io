@@ -2,11 +2,11 @@
 title: Research
 ---
 
-I am currently doing my PhD in Physics at the Massachusetts Institute of Technology. I currently spend my days exploring supermassive black holes in the high-redshift Universe.
+I am currently doing my PhD in Physics at the Massachusetts Institute of Technology, where I spend my days exploring the mysteries of supermassive black holes in the early Universe. 
 
-View my [Google Scholar](https://scholar.google.sk/citations?user=pYkzjmMAAAAJ&hl=en&oi=ao) profile.
+Additionally, I devoted a portion of my PhD to work on the opposite side of the size spectrum, in quantum measurements, with some exciting results soon to be published!
 
-Find out about my past and present research projects below.
+View my [Google Scholar](https://scholar.google.sk/citations?user=pYkzjmMAAAAJ&hl=en&oi=ao) profile, and find out about my past and present research projects below.
 
 ### Astrophysics
 
