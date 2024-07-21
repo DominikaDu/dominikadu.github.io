@@ -6,7 +6,7 @@ I am currently doing my PhD in Physics at the Massachusetts Institute of Technol
 
 Additionally, I devoted a portion of my PhD to work on the opposite side of the size spectrum, in quantum measurements, with some exciting results soon to be published!
 
-View my [Google Scholar](https://scholar.google.sk/citations?user=pYkzjmMAAAAJ&hl=en&oi=ao) profile, and find out about my past and present research projects below.
+View my [Google Scholar](https://scholar.google.sk/citations?user=pYkzjmMAAAAJ&hl=en&oi=ao) and [SAO/NASA ADS][https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22durovcikova%2C%20dominika%22&sort=date%20desc%2C%20bibcode%20desc&p_=0] profile, and find out about my past and present research projects below.
 
 ### Astrophysics
 
