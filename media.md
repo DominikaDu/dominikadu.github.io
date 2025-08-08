@@ -2,12 +2,12 @@
 title: Online content
 ---
 
-### Recordings of talks
+#### Recordings of talks
 
 [First Stars VII in NYC: Chronicling the reionization history with 6 < z < 7 quasars](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/event-videos/?search=Day+Three%2C+Session+Two%3A+Reionization+and+Heating+of+the+Intergalactic+Medium)
 [IEEE Buenavista: Detecting Quasars from the Early Universe](https://www.youtube.com/watch?v=GKd5bgJ4j8o&t=4s)
 
-### Media presence
+#### Media presence
 
 [SME: Baví ju fyzika. Presvedčila o tom aj Oxford.](https://tech.sme.sk/c/20292281/bavi-ju-fyzika-presvedcila-o-tom-aj-oxford.html)
 [eduworld.sk: Vášeň k fyzike ju z bratislavského gymnázia priviedla priamo na Oxford](https://eduworld.sk/cd/zuzana-granska/2670/vasen-k-fyzike-ju-z-bratislavskeho-gymnazia-priviedla-priamo-na-oxford)
