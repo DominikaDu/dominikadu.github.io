@@ -2,7 +2,7 @@
 title: Other projects
 ---
 
-Here are some other projects I've been involved in.
+Here are some other projects I've led or been involved in.
 
 ### MIT Physics Graduate Application Assistance Program
 

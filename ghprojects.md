@@ -2,7 +2,7 @@
 title: My projects on GitHub
 ---
 
-Here's an overview of my GitHub portfolio.
+Here's an overview of my public GitHub portfolio.
 
 ### QSmooth
 
