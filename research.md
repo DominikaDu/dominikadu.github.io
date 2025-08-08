@@ -29,9 +29,6 @@ The first stars that formed in the early Universe, called Population III stars, 
 Large astronomical datasets are the perfect use case for machine learning methods. In the past, I've used the Sloan Digital Sky Survey to build a machine learning models to predict the intrinsic spectra of high redshift quasars that otherwise are blocked from our sight due to the increased opacity caused by neutral hydrogen in the intergalactic medium during the Epoch of Reionization. For my Master's thesis, I created a machine-learning model which can turn galaxy images from ground-based telescopes into space-telescope-like quality images.
 {: style="text-align: justify"}
 
-Here is a [recorded talk](http://sazerac-conference.org/2020/talks.html) about predicting quasar spectra I gave at the [SAZERAC](http://sazerac-conference.org/2020/) conference in July 2020.
-{: style="text-align: justify"}
-
 #### Precision quantum measurements
 
 Precision quantum metrology is a branch of physics which applies quantum-mechanical principles to improve the precision of all kinds of measurements we make: time, distance, force, or phase to list a few. This not only has many industrial applications, such as for navigation systems, biomedical imaging or computer chip manufacturing, but it also bears a very fundamental relevance - quantum-gravity experiments and dark matter detection are a few such areas where the toolkit of precision metrology has experienced a growing interest.
