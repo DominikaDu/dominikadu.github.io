@@ -19,3 +19,4 @@ title: Online content
 [Denník N: Skúmam veľmi hladné, veľmi veľké čierne diery, ktoré sú veľmi ďaleko, vraví astrofyzička Ďurovčíková z MIT](https://dennikn.sk/4181851/skumam-velmi-hladne-velmi-velke-cierne-diery-ktore-su-velmi-daleko-vravi-astrofyzicka-durovcikova-z-mit/)\
 [The Pinnacle Gazette: Bright Galaxies And Quasars Shape Early Universe Research](https://evrimagaci.org/tpg/bright-galaxies-and-quasars-shape-early-universe-research-21787)\
 [Veda na dosah: Astrofyzička Dominika Ďurovčíková: Kvazary sú ako majáky z minulosti](https://vedanadosah.cvtisr.sk/ludia/astrofyzicka-dominika-durovcikova-kvazary-su-ako-majaky-z-minulosti/)\
+[American Astronomical Society NOVA: Are Quasars Growing in Secret?](https://aasnova.org/2025/09/22/are-quasars-growing-in-secret/?utm_source=rss&utm_medium=rss&utm_campaign=are-quasars-growing-in-secret)
