@@ -4,11 +4,14 @@ title: Research
 
 I am currently doing my PhD in Physics at the Massachusetts Institute of Technology, where I spend my days exploring the mysteries of the early Universe. I am also a fan of quantum mechanics.
 
-View my [Google Scholar](https://scholar.google.sk/citations?user=pYkzjmMAAAAJ&hl=en&oi=ao) and [SAO/NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22durovcikova%2C%20dominika%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) profile, and find out about my research interests below.
+View my [Google Scholar](https://scholar.google.sk/citations?user=pYkzjmMAAAAJ&hl=en&oi=ao) and [SAO/NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/dvBpDisMRhWxcgo65vcRSA) profile, and find out about my research interests below.
 
 ### Supermassive black hole growth
 
 To date, more than 500 luminous quasars, hosting rapidly growing billion-solar-mass supermassive black holes (SMBHs), have been identified at a time when our Universe was approximately/less than a billion years old. This poses a challenge - how did these black holes grow so quickly at a time when structure formation was first taking place? To answer this question, I am interested in observationally constraining how long these SMBHs at high redshift have been growing. When black holes grow through accretion, they release copious amounts of radiation. I study the imprints of this radiation on the intergalactic medium (megaparsec scales, through proximity zones) or the circumgalactic medium (kiloparsec scales, through extended nebular emission) to measure the ages of these quasars, trying to disentangle different mechanisms that could have been at play in growing these SMBHs so quickly.
+{: style="text-align: justify"}
+
+A part of this work was featured in [AAS Nova](https://aasnova.org/2025/09/22/are-quasars-growing-in-secret/?utm_source=rss&utm_medium=rss&utm_campaign=are-quasars-growing-in-secret).
 {: style="text-align: justify"}
 
 ### Epoch of Reionization
